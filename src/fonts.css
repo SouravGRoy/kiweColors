@@ -1,0 +1,56 @@
+/* src/fonts.css */
+@font-face {
+    font-family: 'HelveticaNeue',;
+    src: url('../fonts/HelveticaNeue-01.woff') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'FoundersGrotesk';
+    src: url('../fonts/FoundersGrotesk-Bold.woff2') format('woff2');
+        
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'FoundersGrotesk';
+    src: url('../fonts/FoundersGrotesk-Light.woff2') format('woff2');
+        
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'FoundersGrotesk';
+    src: url('../fonts/FoundersGrotesk-Medium.woff2') format('woff2');
+        
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'FoundersGrotesk-Regular';
+    src: url('../fonts/FoundersGrotesk-Regular.woff2') format('woff2');
+        
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'FoundersGrotesk';
+    src: url('../fonts/FoundersGrotesk-Semibold\ \(1\).woff2') format('woff2');
+        
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'FoundersGroteskX-Condensed';
+    src: url('../fonts/FoundersGroteskXCond-Bold.woff2') format('woff2');
+        
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'NeueMontreal-Regular';
+    src: url('/fonts/NeueMontreal-Regular.woff2') format('woff2');
+        
+    font-weight: normal;
+    font-style: normal;
+  }
