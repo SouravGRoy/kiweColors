@@ -1,0 +1,5 @@
+/* src/index.css */
+@import './fonts.css'; /* Import custom fonts first */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
