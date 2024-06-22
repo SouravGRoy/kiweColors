@@ -161,8 +161,8 @@ export default function Gallery({ images }) {
           )
         )}
       </div>
-      <div className="flex flex-col  items-center mt-16">
-        <div className="inline-flex mt-2  xs:mt-0">
+      <div className="flex flex-col items-center mt-16">
+        <div className="inline-flex mt-2 space-x-2 xs:mt-0">
           <button
             onClick={handlePrevPage}
             className="flex items-center justify-center px-5 h-10 text-sm font-medium text-white bg-zinc-800 rounded-full hover dark dark dark dark:hover dark:hover"
