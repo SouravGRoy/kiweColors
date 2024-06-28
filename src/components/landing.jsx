@@ -49,7 +49,7 @@ export default function Landing() {
                   animate="rest"
                 >
                   <a
-                    href="/contact"
+                    href="https://kiwemedia.vercel.app/contact"
                     style={{ position: "relative", zIndex: 10 }}
                   >
                     <motion.span
@@ -74,7 +74,7 @@ export default function Landing() {
                   </a>
                 </motion.div>
                 <a
-                  href="/contact"
+                  href="https://kiwemedia.vercel.app/contact"
                   className="w-9 h-9 flex items-center justify-center border-[1px] border-zinc-500 hover:text-black rounded-full hover:bg-gray-200 transition-colors duration-1000 transform hover:rotate-45"
                 >
                   <span>
